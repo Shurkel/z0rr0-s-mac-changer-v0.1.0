@@ -11,3 +11,6 @@ z0rr0's_mac_changer_default_v0.1.0.py can be used from the terminal with the fol
   
   
 I am open to any suggestions.
+
+Fixes
+1.Fixed the terminal ui version 
